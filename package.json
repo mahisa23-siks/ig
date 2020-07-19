@@ -11,7 +11,7 @@
     "delay": "^2.0.0",
     "inquirer": "^4.0.2",
     "instagram-private-api": "^0.10.1",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.19",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.25",
     "request": "^2.83.0",
